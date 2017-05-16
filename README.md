@@ -15,4 +15,4 @@ During the backup process, the DB gets locked and just after the process complet
 
 Every backup gets created with the default name "dump" and it is moved to a seperate folder to include the name we require.
 
-This is converted to a tar file for ease of handling.
+This is converted to a tar file for ease of handling. Created backup folders can be viewed in the out_path specified.
